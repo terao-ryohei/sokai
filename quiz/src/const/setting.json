@@ -1,0 +1,85 @@
+{
+  "hp": 100,
+  "quiz": [
+    {
+      "monster": "おがた",
+      "img": "ogata",
+      "text": "問題文1",
+      "list": ["1", "2", "3", "4"],
+      "answer": 1,
+      "damage": 10
+    },
+    {
+      "monster": "おがた",
+      "img": "ogata",
+      "text": "問題文2",
+      "list": ["1", "2", "3", "4"],
+      "answer": 1,
+      "damage": 10
+    },
+    {
+      "monster": "おがた",
+      "img": "ogata",
+      "text": "問題文3",
+      "list": ["1", "2", "3", "4"],
+      "answer": 1,
+      "damage": 10
+    },
+    {
+      "monster": "おがた",
+      "img": "ogata",
+      "text": "問題文4",
+      "list": ["1", "2", "3", "4"],
+      "answer": 1,
+      "damage": 10
+    },
+    {
+      "monster": "おがた",
+      "img": "ogata",
+      "text": "問題文5",
+      "list": ["1", "2", "3", "4"],
+      "answer": 1,
+      "damage": 10
+    },
+    {
+      "monster": "おがた",
+      "img": "ogata",
+      "text": "問題文6",
+      "list": ["1", "2", "3", "4"],
+      "answer": 1,
+      "damage": 10
+    },
+    {
+      "monster": "おがた",
+      "img": "ogata",
+      "text": "問題文7",
+      "list": ["1", "2", "3", "4"],
+      "answer": 1,
+      "damage": 10
+    },
+    {
+      "monster": "おがた",
+      "img": "ogata",
+      "text": "問題文8",
+      "list": ["1", "2", "3", "4"],
+      "answer": 1,
+      "damage": 10
+    },
+    {
+      "monster": "おがた",
+      "img": "ogata",
+      "text": "問題文9",
+      "list": ["1", "2", "3", "4"],
+      "answer": 1,
+      "damage": 10
+    },
+    {
+      "monster": "おがた",
+      "img": "ogata",
+      "text": "問題文10",
+      "list": ["1", "2", "3", "4"],
+      "answer": 1,
+      "damage": 50
+    }
+  ]
+}
