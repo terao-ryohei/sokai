@@ -7,7 +7,7 @@ import ResultPage from './page/result'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="https://terao-ryohei.github.io/sokai">
       <RecoilRoot>
         <Routes>
           <Route path={`/`} element={<QuizPage />} />
