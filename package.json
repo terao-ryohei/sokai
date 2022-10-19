@@ -8,7 +8,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist",
-    "postbuild": "cp build/index.html build/404.html"
+    "postbuild": "cp dist/index.html dist/404.html"
   },
   "dependencies": {
     "react": "^18.2.0",
